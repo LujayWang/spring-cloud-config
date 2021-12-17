@@ -1,0 +1,2 @@
+config:
+  info: master spring https://github.com/LujayWang/spring-cloud-config/blob/main/config-test.yml version:1
